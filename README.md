@@ -39,7 +39,7 @@ To get started with JobDirect, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/JobDirect.git
+   git clone https://github.com/ShakyaJU/JobDirect.git
    ```
 2. Install Dependencies:
    ```bash
