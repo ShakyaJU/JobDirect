@@ -62,7 +62,7 @@ To get started with JobDirect, follow these steps:
 ## Project Structure:
 <pre>
 JobDirect/
-├── assets/                       # App assets (images, icons, fonts, Figma designs, etc.)
+├── assets/                       # App assets (images, icons, fonts, figma designs, etc.)
 │   ├── fonts/                    # UI elements and app-related fonts
 │   ├── images/                   # UI elements and app-related images
 │
